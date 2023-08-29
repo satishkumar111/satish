@@ -7,3 +7,5 @@ echo"******* Display today date******"
 date
 echo"*****dispaly free space****"
 free
+echo"***free space mangement***"
+free -m
