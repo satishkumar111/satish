@@ -9,3 +9,5 @@ echo"*****dispaly free space****"
 free
 echo"***free space mangement***"
 free -m
+echo"**dispaly the command**"
+lsblk
