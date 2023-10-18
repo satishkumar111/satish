@@ -1,0 +1,7 @@
+provieded "aws" "example"{
+region="us-east-1"
+}
+resource "aws_instance" "example"{
+ami="ami-oc55b159cbtatelfo"
+instance_type="t2.micro"
+}
